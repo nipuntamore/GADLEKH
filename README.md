@@ -71,8 +71,7 @@ The forts of the Maratha Empire are a testament to military engineering and stra
 
   * **Nipun Tamore**
       * B.Tech IT Student, Pillai College of Engineering (PCE)
-      * [Portfolio Website](https://www.google.com/search?q=https://nipuntamore.github.io/index.html)
-      * [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/nipuntamore)
+      * [LinkedIn](www.linkedin.com/in/nipun-tamore-21ba5b308)
 
 -----
 
