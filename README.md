@@ -1,7 +1,6 @@
 # GADLEKH
 GADLEKH: Graphical Archive for Data, Legacy, Exploration and Kingdom Heritage
-
-This is an impressive Java Swing project. Your **GADLEKH** application effectively combines your interests in Maratha history and IT, creating a functional archive for historical exploration.
+ **GADLEKH** application effectively combines your interests in Maratha history and IT, creating a functional archive for historical exploration.
 
 -----
 
