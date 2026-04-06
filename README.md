@@ -3,8 +3,6 @@ GADLEKH: Graphical Archive for Data, Legacy, Exploration and Kingdom Heritage
 
 This is an impressive Java Swing project. Your **GADLEKH** application effectively combines your interests in Maratha history and IT, creating a functional archive for historical exploration.
 
-Since you are a first-year IT student at Pillai College of Engineering, having a clean, professional `README.md` is essential for your GitHub portfolio. Here is a tailored version for your individual project.
-
 -----
 
 # GADLEKH: Graphical Archive for Data, Legacy, Exploration, and Kingdom Heritage
@@ -45,11 +43,6 @@ GADLEKH/
 │
 └── README.md
 ```
-
-## 📸 Screenshots
-
-> *Tip: Add a screenshot of your app here by uploading it to your GitHub repository and referencing the link below.*
-> `![App Screenshot](assets/screenshot.png)`
 
 ## ⚙️ How to Run
 
